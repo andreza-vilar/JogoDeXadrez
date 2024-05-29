@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # JogoDeXadrez
-=======
+
 # Chess Game Application
 
 Este projeto implementa um jogo de xadrez jogável via terminal. O código principal está contido na classe `Program`, que gerencia a lógica principal do jogo e a interação com o usuário.
@@ -53,4 +52,4 @@ O programa trata duas exceções principais:
 ## Dependências
 
 O código depende de outras classes (`ChessMatch`, `ChessPiece`, `ChessPosition`, `UI`, etc.) que devem estar presentes no pacote `chess`.
->>>>>>> master
+
